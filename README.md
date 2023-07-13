@@ -4,9 +4,13 @@
 Nesta primeira versão do programa foi usado:
 
 → lógica de programação
+
 → Variáveis
+
 → estrutura de controle
+
 → laço de repetições
+
 → Biblioteca datetime
 
 
