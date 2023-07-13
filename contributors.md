@@ -1,2 +1,1 @@
-# Desenvolvedor
-_Flávio Davi_
+# Desenvolvido por _Flávio Davi_
